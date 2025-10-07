@@ -8,6 +8,6 @@
 
 - [Documentación oficial de JPA](https://jakarta.ee/specifications/persistence/)
 - [Hibernate (implementación de JPA)](https://hibernate.org/)
-- [Tutorial JPA en Baeldung](https://www.baeldung.com/jpa-hibernate-tutorial)
+- [Tutorial JPA en Vogella](https://www.vogella.com/tutorials/JavaPersistenceAPI/article.html)
 
 Estos recursos te ayudarán a profundizar en los temas tratados en esta wiki.
